@@ -1,4 +1,4 @@
-import { strict as assert } from "assert";
+const assert = require("assert").strict;
 
 describe("example", () => {
   it("tests", async () => {
