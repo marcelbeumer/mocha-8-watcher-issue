@@ -1,6 +1,6 @@
 # mocha-8-watcher-issue
 
-Demonstrates issue with mocha@8 that crashes watch mode when imports fail.
+Demonstrates issue with mocha@8 that crashes watch mode when imports fail (https://github.com/mochajs/mocha/issues/4580).
 This is a minimal mocha setup, see `typescript` branch for the same issue with a ts-node setup.
 
 To reproduce:
